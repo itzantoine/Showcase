@@ -6,9 +6,15 @@ public class ActivityController : Controller
 {
     // GET activities 
     
-    
-    // Add activity 
+    public IActionResult ViewActivity()
+    {
+        return View();
+    }
+
+        // Add activity 
     // Haal de form informatie uit de view op en sla deze op in de database
+    
+    
 
 
 

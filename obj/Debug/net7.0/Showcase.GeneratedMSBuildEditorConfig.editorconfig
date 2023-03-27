@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/antoinepijlgroms/Documents/HBO/WebDev/Showcase
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/antoinepijlgroms/Documents/HBO/WebDev/Showcase/Views/Activity/AddActivity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWN0aXZpdHkvQWRkQWN0aXZpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/antoinepijlgroms/Documents/HBO/WebDev/Showcase/Views/Activity/ViewActivity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWN0aXZpdHkvVmlld0FjdGl2aXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/antoinepijlgroms/Documents/HBO/WebDev/Showcase/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
